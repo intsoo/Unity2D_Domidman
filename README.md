@@ -2,9 +2,9 @@
 ## | Nexon Dream Members (NDM) 2023 UNIJAM  
 
 * 기획: 김수빈 (연세대학교 PoolC)
-* 그래픽: 정영준 (서울대학교 SNUGDC)
-* 메인 코더: 김서현 (이화여자대학교 KING)
-* 서브 코더: 정은수 (이화여자대학교 KING)
+* 그래픽 & 코더: 정영준 (서울대학교 SNUGDC)
+* 코더: 김서현 (이화여자대학교 KING)
+* 코더: 정은수 (이화여자대학교 KING)
 
 
 (WE HAD THE BEST GRAPHIC ARTIST!)
