@@ -8,4 +8,4 @@
 
 
 (WE HAD THE BEST GRAPHIC ARTIST!)
-![image](https://github.com/intsoo/Unity2D_Domidman/assets/80330331/7922a61c-9a42-4164-bfe3-0cea4892e2bb)
+![유니잼 캐릭터 애니메이션 완성](https://github.com/intsoo/Unity2D_Domidman/assets/80330331/5b3524ff-447f-4230-9e41-9b97e97684a5)
