@@ -1,5 +1,5 @@
 # 도믿맨 피하기 게임
-## | Nexon Dream Members (NDM) 2023 Unijam
+## | Nexon Dream Members (NDM) 2023 UNIJAM  
 
 * 기획: 김수빈 (연세대학교 PoolC)
 * 그래픽: 정영준 (서울대학교 SNUGDC)
